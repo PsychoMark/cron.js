@@ -151,3 +151,7 @@ Another example:
         // at 11:30:00 AM. It does not run on Saturday
         // or Sunday.
     });
+
+
+[jamespadolsey]:http://github.com/padolsey
+[ncb000gt]:http://github.com/ncb000gt
